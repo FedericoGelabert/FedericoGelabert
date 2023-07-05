@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico Gelabert.</h1>
-<img src="https://res.cloudinary.com/federicog/image/upload/v1688590648/my-profile-github/Banner_Github_F.G._rmhtaj.png" alt="Federico Gelabert Banner"></img>
+<img src="https://res.cloudinary.com/federicog/image/upload/v1688593379/my-profile-github/github-profile-banner_os15iu.jpg" alt="Federico Gelabert Banner"></img>
 
 ### Who am I?
 
